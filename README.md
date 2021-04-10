@@ -1,8 +1,7 @@
 REQUIREMENTS
 ------------
 1. ValvePython Steam package (https://github.com/ValvePython/steam)
-2. SlackClient version <= 1.3.1 `(pip install slackclient==1.3.1)` (https://github.com/slackapi/python-slackclient)
-3. Telegram Python Wrapper for Telegram notifications. (https://github.com/python-telegram-bot/python-telegram-bot)
+2. Telegram Python Wrapper for Telegram notifications. (https://github.com/python-telegram-bot/python-telegram-bot)
 
 How to use
 ----------
